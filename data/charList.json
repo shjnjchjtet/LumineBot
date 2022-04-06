@@ -1,0 +1,281 @@
+{
+    "element": 
+    [
+        {
+            "name": "Pyro",
+            "vnName": "Hệ Hỏa",
+            "color": "#da8143",
+            "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956949964699893780/pyroglow.png",
+            "icon": "956926521052905492",
+            "characters": "Bennett \n Diluc \n Klee \n Hutao \n Xiangling \n Yoimiya \n"
+        },
+        {
+            "name": "Cryo",
+            "vnName": "Hệ Băng",
+            "color": "#4da8bb",
+            "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956948973359333539/cryoglow.png",
+            "icon": "956926521023549460",
+            "characters": "Ayaka \n Eula \n Ganyu \n Qiqi \n"
+        },
+        {
+            "name": "Hydro",
+            "vnName": "Hệ Thủy",
+            "color": "#15a5ce",
+            "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956951191747723405/hydroglow.png",
+            "icon": "956926520960643132",
+            "characters": "Childe - Tartaglia \n Xingqiu \n"
+        },
+        {
+            "name": "Electro",
+            "vnName": "Hệ Lôi",
+            "color": "#8e54b4",
+            "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956951191303094302/electroglow.png",
+            "icon": "956926522705465364",
+            "characters": "Beidou \n Fischl \n Keqing \n Raiden - RaidenShogun - Ei \n Sara \n"
+        },
+        {
+            "name": "Anemo",
+            "vnName": "Hệ Phong",
+            "color": "#3b945",
+            "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956951828065579018/anemoglow2.png",
+            "icon": "956926522567049338",
+            "characters":  "Jean \n Venti \n Kazuha \n Sucrose \n Xiao \n"
+        },
+        {
+            "name": "Geo",
+            "vnName": "Hệ Nham",
+            "color": "#d5a639",
+            "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956951191529607188/geoglow.png",
+            "icon": "956926521627525280",
+            "characters": "Noelle \n Zhongli \n"
+        }        
+    ],
+    "character":
+    [
+        {
+            "charName": "beidou",
+            "color": "#8e54b4",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558583012065300/BEIDOU_FINAL.png",
+            "fgCheck": false
+        },
+        {
+            "charName": "bennett",
+            "color": "#da8143",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558583616040980/BENNET_FINAL.png'"
+            ,"fgCheck": false
+        },
+        {
+            "charName": "childe",
+            "color": "#15a5ce",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558797580070992/CHILDE_QG_2.5.png"
+            ,"fgCheck": false
+        },
+        {
+            "charName": "tartaglia",
+            "color": "#15a5ce",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558797580070992/CHILDE_QG_2.5.png"
+            ,"fgCheck": false
+        },
+        {
+            "charName": "diluc",
+            "color": "#da8143",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558582441615380/DILUC_FINAL.png"
+            ,"fgCheck": false
+        },
+        {
+            "charName": "fischl",
+            "color": "#8e54b4",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558584874311770/FISCHL_FINAL.png"
+            ,"fgCheck": false
+        },
+        {
+            "charName": "jean",
+            "color": "#3b945",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558798750273606/JEAN_QQ_2.5.png"
+            ,"fgCheck": false
+        },
+        {
+            "charName": "klee",
+            "color": "#da8143",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558799324880906/KLEE_QQ_2.5.png"
+            ,"fgCheck": false
+        },
+        {
+            "charName": "ayaka",
+            "color": "#4da8bb",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558880019091497/QG_AYAKA_2.5.png"
+            ,"fgCheck": false
+        },
+        {
+            "charName": "eula",
+            "color": "#4da8bb",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558798221787186/QG_EULA_2.5.png"
+            ,"fgCheck": false
+        },
+        {
+            "charName": "ganyu",
+            "color": "#4da8bb",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558879494819890/QG_GANYU_2.5.png"
+            ,"fgCheck": false
+        },
+        {
+            "charName": "hutao",
+            "color": "#da8143",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558796116242442/QG_HUTAO_2.5.png"
+            ,"fgCheck": false
+        },
+        {
+            "charName": "kazuha",
+            "color": "#3b945",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558877502517268/QG_KAZUHA_2.5.png"
+            ,"fgCheck": false
+        },
+        {
+            "charName": "keqing",
+            "color": "#8e54b4",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558655133122590/QG_KEQING_2.5.png"
+            ,"fgCheck": false
+        },
+        {
+            "charName": "noelle",
+            "color": "#d5a639",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558655787417660/QG_Noelle_2.5.png"
+            ,"fgCheck": false
+        },
+        {
+            "charName": "xiao",
+            "color": "#3b945",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558656378810378/QG_Xiao_2.5.png"
+            ,"fgCheck": false
+        },
+        {
+            "charName": "qiqi",
+            "color": "#4da8bb",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558799903715338/QG_QQ_2.5.png"
+            ,"fgCheck": false
+        },
+        {
+            "charName": "ei",
+            "color": "#8e54b4",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558654428475452/QG_RAIDEN_2.5.png"
+            ,"fgCheck": true
+        },
+        {
+            "charName": "raidenshogun",
+            "color": "#8e54b4",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558654428475452/QG_RAIDEN_2.5.png"
+            ,"fgCheck": true
+        },
+        {
+            "charName": "raiden",
+            "color": "#8e54b4",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558654428475452/QG_RAIDEN_2.5.png"
+            ,"fgCheck": true
+        },
+        {
+            "charName": "venti",
+            "color": "#3b945",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558878169423984/QG_VENTI_2.5.png"
+            ,"fgCheck": false
+        },
+        {
+            "charName": "xingqiu",
+            "color": "#15a5ce",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558878957944852/QG_XINGQIU_2.5.png"
+            ,"fgCheck": false
+        },
+        {
+            "charName": "yae",
+            "color": "#8e54b4",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558653258252438/QG_YAEMIKO_2.5_FIX.png"
+            ,"fgCheck": true
+        },
+        {
+            "charName": "yaemiko",
+            "color": "#8e54b4",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558653258252438/QG_YAEMIKO_2.5_FIX.png"
+            ,"fgCheck": true
+        },
+        {
+            "charName": "johnlee",
+            "color": "#d5a639",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558581443366972/QG_ZHONGLI_2.5.png"
+            ,"fgCheck": true
+        },
+        {
+            "charName": "zhongli",
+            "color": "#d5a639",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558581443366972/QG_ZHONGLI_2.5.png"
+            ,"fgCheck": true
+        },
+        {
+            "charName": "sara",
+            "color": "#8e54b4",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558585759330344/SARA_FINAL.png"
+            ,"fgCheck": false
+        },
+        {
+            "charName": "sucrose",
+            "color": "#3b945",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558581913124924/SUCROSE_FINAL2.png"
+            ,"fgCheck": false
+        },
+        {
+            "charName": "xiangling",
+            "color": "#da8143",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558584228401202/XIANGLING_FINAL.png"
+            ,"fgCheck": false
+        },
+        {
+            "charName": "yoimiya",
+            "color": "#da8143",
+            "image": "https://cdn.discordapp.com/attachments/955557885771919480/955558876680441856/YOIMIYA_QG_2.5.png"
+            ,"fgCheck": false
+        }
+    ],
+    "fullGuide":[
+        {
+            "name":"zhongli",
+            "link":"https://youtu.be/GFOAH-BMZNY"
+        },
+        {
+            "name":"johnlee",
+            "link":"https://youtu.be/GFOAH-BMZNY"
+        },
+        {
+            "name":"itto",
+            "link":"https://youtu.be/5OUwKgLe7vc"
+        },
+        {
+            "name":"ei",
+            "link":"https://youtu.be/V8sRzxMCbpo"
+        },
+        {
+            "name":"raidenshogun",
+            "link":"https://youtu.be/V8sRzxMCbpo"
+        },
+        {
+            "name":"raiden",
+            "link":"https://youtu.be/V8sRzxMCbpo"
+        },
+        {
+            "name":"yae",
+            "link":"https://youtu.be/CE9k8soZBvg"
+        },
+        {
+            "name":"yaemiko",
+            "link":"https://youtu.be/CE9k8soZBvg"
+        },
+        {
+            "name":"albedo",
+            "link":"https://youtu.be/m5fJ48ccvj8"
+        },
+        {
+            "name":"shenhe",
+            "link":"https://youtu.be/3TzGMUDSziU"
+        }
+
+    ]
+}
+
+

@@ -1,0 +1,96 @@
+{
+    "gift" : 
+    [
+        
+     {
+         "id":0,
+         "description":"1001 điểm xủa <a:zz_GI_paimon_nomnom:957948668839858196>"
+     }
+      , 
+     {
+         "id": 1,
+         "description":"2077 điểm xủa <a:pepecool:956559046532562965>"
+     } 
+      ,
+     {
+         "id":2,
+         "description":"1234 điểm xủa <a:pepepog:956559048218656798>"
+     } 
+      ,
+     {
+         "id":3,
+         "description":"2468 điểm xủa <a:809861810479562763:956510245809688617>"
+     } 
+      ,
+     {
+         "id":4,
+         "description":"1111 điểm xủa <a:moedance:956559042405343272>"
+     } 
+      ,
+     {
+         "id":5,
+         "description":"2022 điểm xủa <:pepe_business:955541157985800243>"
+     } 
+      ,
+     {
+         "id":6,
+         "description":"3000 điểm xủa <:moe_noice:729555095586471957>"
+     } 
+      ,
+     {
+         "id":7,
+         "description":"69 điểm xủa <:GI_chibipaimonsmug:957831005832618075>"
+     } 
+    ],
+    "element": 
+    [
+        {
+            "name": "Pyro",
+            "vnName": "Hệ Hỏa",
+            "color": "#da8143",
+            "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956949964699893780/pyroglow.png",
+            "icon": "956926521052905492",
+            "characters": "Bennett \n Diluc \n Klee \n Hutao \n Xiangling \n Yoimiya \n"
+        },
+        {
+            "name": "Cryo",
+            "vnName": "Hệ Băng",
+            "color": "#4da8bb",
+            "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956948973359333539/cryoglow.png",
+            "icon": "956926521023549460",
+            "characters": "Ayaka \n Eula \n Ganyu \n Qiqi \n"
+        },
+        {
+            "name": "Hydro",
+            "vnName": "Hệ Thủy",
+            "color": "#15a5ce",
+            "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956951191747723405/hydroglow.png",
+            "icon": "956926520960643132",
+            "characters": "Childe \n Xingqiu \n"
+        },
+        {
+            "name": "Electro",
+            "vnName": "Hệ Lôi",
+            "color": "#8e54b4",
+            "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956951191303094302/electroglow.png",
+            "icon": "956926522705465364",
+            "characters": "Beidou \n Fischl \n Keqing \n Raiden - RaidenShogun - Ei \n Sara \n"
+        },
+        {
+            "name": "Anemo",
+            "vnName": "Hệ Phong",
+            "color": "#3b945",
+            "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956951828065579018/anemoglow2.png",
+            "icon": "956926522567049338",
+            "characters":  "Jean \n Venti \n Kazuha \n Sucrose \n Xiao \n"
+        },
+        {
+            "name": "Geo",
+            "vnName": "Hệ Nham",
+            "color": "#d5a639",
+            "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956951191529607188/geoglow.png",
+            "icon": "956926521627525280",
+            "characters": "Noelle \n Zhongli \n"
+        }        
+    ]         
+}

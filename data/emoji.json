@@ -1,0 +1,46 @@
+{
+    "emoji" : 
+    [
+     {
+         "name":"meo-cri",
+         "id":"<:moe_crii:871645589652250675>"
+     } ,  
+     {
+         "name":"meo-cri2",
+         "id":"<:moe_criii:797117195883905084>"
+     } ,  
+     {
+         "name":"meo-cri3",
+         "id":"<:moe_criii:823840271774253076>"
+     } ,  
+     {
+         "name":"meo-meh",
+         "id":"<:moe_meh:729555094546153553>"
+     } ,  
+     {
+         "name":"meo-tuk",
+         "id":"<:moe_tukk:834724234622009364>"
+     } ,  
+     {
+         "name":"meo-khum",
+         "id":"<:moe_nooo:852157843385352253>"
+     } ,  
+     {
+         "name":"cho-cuoi",
+         "id":"<:zdoge_kek:840319028279115857>"
+     } ,  
+     {
+         "name":"dead-inside",
+         "id":"<:zhm_dedInside:842781303535042641>"
+     } ,  
+     {
+         "name":"pikachu",
+         "id":"<:zemo_pikameh:729555091937427516>"
+     } ,
+     {
+         "name":"meo-noice",
+         "id":"<:moe_okee:723812944328261642>"
+     } 
+      
+    ]         
+}

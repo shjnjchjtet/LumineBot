@@ -1,0 +1,190 @@
+{
+    "greeting" : 
+    [
+        "chao",
+        "hello",
+        "hellu",
+        "hi",
+        "chào",
+        "xin",
+        "lồ",
+        "hê",
+        "hề",
+        "lô"
+
+    ],
+    "objectt" :[
+        "mn",
+        "m.n",
+        "mọi người",
+        "moi nguoi",
+        "moi ng",
+        "mọi ng",
+        "ace",
+        "ae",
+        "anh em",
+        "anh e",
+        "a em",
+        "các bạn",
+        "cac ban",
+        "các bác",
+        "cac bac",
+        "lumine",
+        "lúa mì",
+        "lua mi",
+        "bot",
+        "bà con",
+        "ba con",
+        "mina",
+        "cả nhà",
+        "ca nha"        
+      
+
+    ],
+    "bye":[
+        "bb",
+        "bye",
+        "pp",
+        "bai",
+        "pai",
+        "bái",
+        "pipi",
+        "boai",
+        "boái",
+        "beibei",
+        "peipei",
+        "gudbai",
+        "gút bai",
+        "gúd bai",
+        "goodbye",
+        "good bye",
+        "tạm biệt",
+        "tam biet"
+    ],
+    "night":[
+        "g9",
+        "good night",
+        "gút night",
+        "gúd night",
+        "gút nai",
+        "gúd nai",
+        "goodnight",
+        "ngủ ngon",
+        "ngủ ngoan",
+        "ngu ngon",
+        "ngu ngoan",
+        "nn",
+        "sleep well"
+    ],
+    "botHi":[
+        {
+            "id": 0,
+            "name":"Hú"
+        }
+        ,
+        {
+            "id": 1,
+            "name":"Chào"
+        }
+        ,
+        {
+            "id": 2,
+            "name":"Zâu"
+        }
+        ,
+        {
+            "id": 3,
+            "name":"Lồ lố"
+        }
+        
+    ] ,
+    "botBye":[
+        {
+            "id": 0,
+            "name":"Bye"
+        }
+        ,
+        {
+            "id": 1,
+            "name":"Bái bai"
+        }
+    ] ,
+    "botNight":[
+        {
+            "id": 0,
+            "name":"Gụt nai"
+        }
+        ,
+        {
+            "id": 1,
+            "name":"Chúc ngủ ngon"
+        }
+        ,
+        {
+            "id": 2,
+            "name":"good night"
+        }
+    ] ,
+   "emoPart":[
+     {
+        "id": 0,
+        "name":"a:809861810479562763:956510245809688617"
+     }
+     ,
+     {
+        "id": 1,
+        "name":":moe_rose:956601097299050507"
+     }
+     ,
+     {
+        "id": 2,
+        "name":"a:HI_yaedance:959869853399908422"
+     }
+     ,
+     {
+        "id": 3,
+        "name":":moe_cute:956601097198370837"
+     }
+     ,
+     {
+        "id": 4,
+        "name":":hutao_hehe:959475813168861244"
+     }
+     ,
+     {
+        "id": 5,
+        "name":"a:GI_xiaodance:960516861043286066"
+     }
+     ,
+     {
+        "id": 6,
+        "name":"a:GI_keqinglick:960516860347043850"
+     }
+     ,
+     {
+        "id": 7,
+        "name":"a:GI_kleeheartpyro:959839010564497588"
+     }
+     ,
+     {
+        "id": 8,
+        "name":"a:emo_birdjam:960516863069155329"
+     }
+     ,
+     {
+        "id": 9,
+        "name":"a:emo_nomnom:960909518181630014"
+     }
+     ,
+     {
+        "id": 10,
+        "name":"a:moe_yes:960909523248357416"
+     }
+     ,
+     {
+        "id": 11,
+        "name":"a:GI_paimonwhale:960516861898915850"
+     }
+        
+   ]
+}
